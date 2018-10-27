@@ -1,0 +1,194 @@
+.body{
+    background-color:#dddddd;
+}
+
+
+.about-me{
+    width: 60%;
+    margin: auto;
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+    background: #ffffff;
+}
+
+.about-img{
+    height: 250px;
+    
+}
+
+.nav-container{
+    padding: 25px;
+}
+
+.label{
+    text-align: center;
+    background-color:#4aaaa5;
+    width: 250px;
+    color: #ffffff;
+}
+
+.nav-links{
+    display: inline-block;
+    text-align: right;
+    padding-right: 25px;
+    
+}
+
+.my-nav{
+    border: 2px;
+    width: 90%;
+    margin: auto;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #ffffff;
+    
+    
+}
+
+.header{
+    border-bottom: 2px solid #cccccc;
+}
+
+.myText{
+    /* text-align: center; */
+    color: #777777;
+    border-color: #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #ffffff;
+    
+}
+
+.row{
+    width: 60%;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.footer{
+    background-color:#666666;
+    width: 100%;
+    position:absolute;
+    bottom: 0;
+    text-align: center;
+    border-top: 4px solid #4aaaa5;
+    padding: 5px;
+}
+
+.footer-nonabsolute{
+    position: relative;
+}
+
+
+.form{
+    width: 50%;
+    margin: auto;
+
+}
+
+.btn{
+    background-color:#4aaaa5;
+    border: none;
+
+}
+
+.work {
+    position: relative;
+    float: left;
+    width: 250px;
+    margin: 25px;
+    /* overflow: auto; */
+    height: 250px;
+  
+}  
+
+.main-selection{
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #ffffff;
+  border: 1px solid #dddddd;
+}
+
+#main-container {
+    padding-top: 5px;
+    min-height: calc(100vh - 70px);
+    background: #ffffff;
+}  
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}  
+
+.work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+}  
+
+.clearfix {
+    clear: both;
+}
+
+.clearhack:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+#firstimg{
+    background-image: url("technics-q-c-640-480-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#secondimg{
+    background-image: url("technics-q-c-640-480-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#thirdimg{
+    background-image: url("technics-q-c-640-480-5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#fourthimg{
+    background-image: url("technics-q-c-640-480-7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+#fifthimg{
+    background-image: url("technics-q-c-640-480-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.contactMe{
+    color: #4aaaa5;
+}
+
+.portfolio{
+    color: #4aaaa5;
+}
+
